@@ -1,0 +1,135 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+  overflow: hidden;
+}
+
+li {
+  opacity: unset;
+  color: #665ed0;
+}
+.menu {
+  width: 100%;
+  height: 48px;
+}
+.extendmenu {
+  padding: 0 100px;
+  background: #283e4a;
+  height: 4vw;
+}
+
+.Searchfields{
+  padding-top: 10px;
+  padding-left: 3vw;
+}
+.inputfield {
+  height: 4vw;
+ 
+}
+.inputfield1 {
+  padding-left: 10px;
+  height: 34px;
+  width: 50%;
+}
+.fa {
+  width: 40px;
+  height: 40px;
+
+  font-size: 30px;
+  padding-top: 10px;
+  margin-right: 3vw;
+
+  border: white;
+  color: white;
+}
+.fa-linkedin-square {
+  font-size: 40px;
+  padding-top: 5px;
+  margin-right: 10px;
+  width: 40px;
+  height: 40px;
+  color: #0077b5;
+}
+
+.Button {
+  background-color: #485d69;
+  margin-top: 10px;
+  margin-right: 30px;
+  margin-left: 3vw;
+  text-align: center;
+  height: 34px;
+  width: 10vw;
+  color: white;
+  border: none;
+}
+.filter {
+  height: 50px;
+}
+input[type="radio"] {
+  -webkit-appearance: radio;
+  opacity: unset;
+  margin: 0;
+  position: relative;
+  pointer-events: all;
+  /* position: absolute; */
+}
+li {
+  list-style-type: none;
+  display: inline;
+}
+li:hover {
+  text-decoration: underline;
+}
+ul {
+  list-style-type: none;
+  display: inline;
+  overflow: hidden;
+}
+.border {
+  border: solid 2px;
+}
+img {
+  width: 50px;
+  height: 50px;
+  padding: 10px 10px;
+}
+.Jobs {
+  border: gray solid 2px;
+
+  margin-top: 30px;
+
+  width: 100%;
+  height: auto;
+}
+.blue {
+  color: blue;
+}
+.h {
+  padding-left: 30px;
+}
+.col-6 {
+  width: 50%;
+}
+.hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
+.col-2 {
+  width: 7vw;
+}
+
+
+
+.searchhead{
+  width: 10vw;
+  margin-left: 2vw;
+  margin-top: 1vw;
+}

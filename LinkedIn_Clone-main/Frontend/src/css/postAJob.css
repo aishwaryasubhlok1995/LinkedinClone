@@ -1,0 +1,60 @@
+.job {
+  width: 20vw;
+  margin-left: 40vw;
+  margin-top: 2vw;
+}
+
+.job_body {
+  height: auto;
+  width: 90vw;
+  margin-left: 5vw;
+  margin-top: 2vw;
+}
+
+.job_body button {
+  margin: 1vw 0 0 0;
+  width: 7vw;
+  height: 3vw;
+  border-radius: 10vw;
+}
+
+.job_information {
+  border: 1px solid #d3d8de;
+  width: 40vw;
+  height: auto;
+  padding: 3vw 3vw 3vw 3vw;
+  margin-left: 20vw;
+  background-color: white;
+}
+
+.job_information h3 {
+  color: #323f4d;
+  font-family: "Lato", "Roboto", "Arial", "Helvetica Neue", Helvetica,
+    sans-serif;
+  font-weight: 700;
+}
+
+.job_information input {
+  height: 3vw;
+  margin-top: 1vw;
+  width: 25vw;
+  border-color: black;
+}
+
+.job_information textarea {
+  resize: none;
+  margin-top: 1vw;
+  width: 25vw;
+  border-color: black;
+}
+
+.job_information select {
+  height: 3vw;
+  margin-top: 1vw;
+  width: 25vw;
+  border-color: black;
+}
+
+.job_information label {
+  font-size: 0.8vw;
+}

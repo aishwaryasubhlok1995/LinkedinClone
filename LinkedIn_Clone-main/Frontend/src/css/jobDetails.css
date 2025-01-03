@@ -1,0 +1,26 @@
+body {
+  background-color: #f5f5f5;
+}
+.image1 {
+  top: 0;
+  left: 0;
+  position: relative;
+}
+.over {
+  top: 150px;
+  left: 200px;
+  width: 750px;
+  position: absolute;
+
+  border: gray solid 0.5px;
+  background: white;
+}
+.over1 {
+  top: 370px;
+  left: 200px;
+  width: 750px;
+  position: absolute;
+
+  border: gray solid 0.5px;
+  background: white;
+}

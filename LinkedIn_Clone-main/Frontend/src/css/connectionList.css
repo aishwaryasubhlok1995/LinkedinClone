@@ -1,0 +1,62 @@
+.connection {
+  background: white;
+  margin-left: 15vw;
+  border: 1px gray solid;
+  height: auto;
+  width: 50vw;
+}
+.message {
+  border: 2px solid #0073b1;
+  color: #0073b1;
+  width: 6vw;
+  text-align: center;
+  height: 2.5vw;
+}
+
+.acceptRejectConnection {
+  background: white;
+  margin-left: 15vw;
+  border: 1px gray solid;
+  height: auto;
+  width: 50vw;
+}
+
+.connectionData .row {
+  width: 49vw;
+  margin-left: 0vw;
+  height: 8vw;
+  background: white;
+}
+
+.postedJobs {
+  background: white;
+  margin-left: 15vw;
+  border: 1px gray solid;
+  height: auto;
+  width: 50vw;
+  font-size: 1.5vw;
+}
+
+.jobData .row {
+  width: 49vw;
+  margin-left: 0vw;
+  height: 15vw;
+  background: white;
+}
+
+.jobData img {
+  border: 1px solid black;
+  height: 10vw;
+  width: 10vw;
+}
+
+.jobDetails {
+  margin-top: -10vw;
+  margin-left: 11vw;
+  width: 35vw;
+}
+
+.searchbar_dashboard {
+  margin-left: 30vw;
+  margin-bottom: 2vw;
+}

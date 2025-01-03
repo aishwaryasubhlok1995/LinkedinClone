@@ -1,0 +1,264 @@
+.neptune-grid {
+    width: 1128px;
+    box-sizing: content-box;
+    padding: 0 32px;
+    display: block;
+    margin: auto;
+    position: relative;
+}
+.onboarding-main__container, .onboarding-widget__wrapper--is-full-height {
+    min-height: calc(100vh - 52px);
+}
+.flex-column {
+    flex-direction: column;
+}
+.display-flex {
+    display: flex;
+}
+.flex-1 {
+    flex: 1;
+}
+.onboarding-header {
+    width: 720px;
+}
+.text-align-center {
+    text-align: center;
+}
+.mhA, .mlA {
+    margin-left: auto;
+}
+.mhA, .mrA {
+    margin-right: auto;
+}
+.pb6, .pv6 {
+    padding-bottom: 32px;
+}
+.pt6, .pv6 {
+    padding-top: 32px;
+}
+.onboarding-header__title {
+    font-size: 4rem;
+    line-height: 1.2;
+    font-weight: 200;
+    color: rgba(0,0,0,.9);
+}
+.mb2, .mv2 {
+    margin-bottom: 8px;
+}
+.onboarding-widget__single-card-container {
+    width: 456px;
+    box-sizing: border-box;
+}
+.justify-center {
+    justify-content: center;
+}
+.onboarding-profile-edu--has-min-width {
+    min-width: 0;
+}
+.full-width {
+    width: 100%;
+}
+.mb2, .mv2 {
+    margin-bottom: 8px;
+}
+.truncate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.mt0, .mv0 {
+    margin-top: 0;
+}
+.t-14 {
+    font-size: 1.4rem;
+    line-height: 1.42857;
+}
+.t-normal {
+    font-weight: 400;
+}
+.t-black--light {
+    color: rgba(0,0,0,.6);
+}
+label {
+    font-size: 1.4rem;
+    line-height: 1.42857;
+    font-weight: 400;
+    color: rgba(0,0,0,.9);
+    margin: 12px 0 3px;
+}
+artdeco-typeahead-deprecated {
+    position: relative;
+    display: block;
+}
+artdeco-typeahead-deprecated .artdeco-typeahead-deprecated-live-region {
+    border: 0!important;
+    clip: rect(1px,1px,1px,1px);
+    height: 1px!important;
+    overflow: hidden;
+    padding: 0!important;
+    position: absolute!important;
+    white-space: nowrap!important;
+    width: 1px!important;
+}
+#typeahead-input-for-company, #typeahead-input-for-degree-name, #typeahead-input-for-fos, #typeahead-input-for-school-name, #typeahead-input-for-title, .onboarding-profile-insight {
+    min-height: 40px;
+}
+artdeco-typeahead-deprecated-input input:not(.artdeco-typeahead-deprecated-input__ghost-text) {
+    background: 0 0;
+    position: relative;
+}
+input[type=date], input[type=datetime], input[type=datetime-local], input[type=email], input[type=month], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], textarea {
+    font-size: 1.4rem;
+    line-height: 1.42857;
+    font-weight: 400;
+    transition-duration: 334ms;
+    transition-property: border-color,box-shadow;
+    box-shadow: none;
+    border-radius: 2px;
+    border: 1px solid rgba(0,0,0,.6);
+    padding: 0 10px;
+    width: 100%;
+    outline: 0;
+    height: 32px;
+    box-sizing: border-box;
+    background-color: transparent;
+    color: rgba(0,0,0,.9);
+}
+button, input, select, textarea {
+    font-family: inherit;
+}
+input, select {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+input {
+    padding: 1px 0px;
+}
+user agent stylesheet
+input {
+    -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    padding: 1px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+user agent stylesheet
+input, textarea, select, button {
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+}
+.onboarding-profile-insight {
+    margin-left: 468px;
+    position: absolute;
+}
+.onboarding-profile-insight, .onboarding-profile-reward-insight {
+    animation: fade-in 1s forwards;
+    opacity: 0;
+}
+.onboarding-profile-edu__school-insight-container {
+    transform: translateY(-40px);
+}
+#typeahead-input-for-company, #typeahead-input-for-degree-name, #typeahead-input-for-fos, #typeahead-input-for-school-name, #typeahead-input-for-title, .onboarding-profile-insight {
+    min-height: 40px;
+}
+.display-flex {
+    display: flex;
+}
+.mh4, .ml4 {
+    margin-left: 16px;
+}
+.visually-hidden {
+    display: block;
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+.large-text, h3 {
+    font-size: 2.4rem;
+    line-height: 1.33333;
+}
+.large-header, .large-text, .medium-text, .small-text, body, h1, h2, h3, h4, h5, p {
+    font-weight: 400;
+    color: rgba(0,0,0,.9);
+}
+.onboarding-profile-edu__form-field-container {
+    display: flex;
+}
+.pt1, .pv1 {
+    padding-top: 4px;
+}
+.onboarding-profile-edu__school-years-form-field {
+    flex-basis: 50%;
+    min-width: 0;
+}
+.flex-grow-1 {
+    flex-grow: 1;
+}
+.mh5, .mr5 {
+    margin-right: 24px;
+}
+.onboarding-input.onboarding-input {
+    min-height: 40px;
+    box-sizing: border-box;
+}
+button, input, select, textarea {
+    font-family: inherit;
+}
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    box-shadow: none;
+    outline: 0;
+    height: 32px;
+    position: relative;
+    z-index: 2;
+    background: url(/sc/h/cwn0a0e7hog2i33c88ucrvot5) top -311px right 1px no-repeat;
+    box-sizing: border-box;
+    border: 0;
+    width: 100%;
+    border: 1px solid rgba(0,0,0,.6);
+    padding: 0 32px 0 8px;
+    transition: box-shadow .15s;
+    border-radius: 2px;
+    color: rgba(0,0,0,.9);
+    font-size: 1.4rem;
+    line-height: 1.42857;
+    font-weight: 400;
+}
+input, select {
+    vertical-align: middle;
+}
+.onboarding-profile-edu__school-years-form-field {
+    flex-basis: 50%;
+    min-width: 0;
+}
+.flex-grow-1 {
+    flex-grow: 1;
+}
+.onboarding-input.onboarding-input {
+    min-height: 40px;
+    box-sizing: border-box;
+}
